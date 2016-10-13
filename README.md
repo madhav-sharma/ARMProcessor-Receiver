@@ -1,2 +1,2 @@
 # ARMProcessor-Receiver
-THIS WAS MY FIRST EVER CODING PROJECT
+this was my first project from first semester freshman year
